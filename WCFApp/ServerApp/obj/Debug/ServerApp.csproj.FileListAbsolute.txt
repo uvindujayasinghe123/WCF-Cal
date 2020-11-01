@@ -1,0 +1,13 @@
+D:\DevProj\WCF\sowp-assignment\ServerApp\bin\Debug\ServerApp.dll.config
+D:\DevProj\WCF\sowp-assignment\ServerApp\bin\Debug\ServerApp.dll
+D:\DevProj\WCF\sowp-assignment\ServerApp\bin\Debug\ServerApp.pdb
+D:\DevProj\WCF\sowp-assignment\ServerApp\obj\Debug\ServerApp.csproj.CoreCompileInputs.cache
+D:\DevProj\WCF\sowp-assignment\ServerApp\obj\Debug\ServerApp.dll
+D:\DevProj\WCF\sowp-assignment\ServerApp\obj\Debug\ServerApp.pdb
+C:\Users\uvind\Desktop\D-IT-18-0037\WCFApp\ServerApp\bin\Debug\ServerApp.dll.config
+C:\Users\uvind\Desktop\D-IT-18-0037\WCFApp\ServerApp\bin\Debug\ServerApp.dll
+C:\Users\uvind\Desktop\D-IT-18-0037\WCFApp\ServerApp\bin\Debug\ServerApp.pdb
+C:\Users\uvind\Desktop\D-IT-18-0037\WCFApp\ServerApp\obj\Debug\ServerApp.csprojAssemblyReference.cache
+C:\Users\uvind\Desktop\D-IT-18-0037\WCFApp\ServerApp\obj\Debug\ServerApp.csproj.CoreCompileInputs.cache
+C:\Users\uvind\Desktop\D-IT-18-0037\WCFApp\ServerApp\obj\Debug\ServerApp.dll
+C:\Users\uvind\Desktop\D-IT-18-0037\WCFApp\ServerApp\obj\Debug\ServerApp.pdb
